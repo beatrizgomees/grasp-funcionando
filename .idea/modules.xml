@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jamilson-Grasp-20251111T145335Z-1-001.iml" filepath="$PROJECT_DIR$/.idea/Jamilson-Grasp-20251111T145335Z-1-001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jamilson-Grasp/grasp/grasp.iml" filepath="$PROJECT_DIR$/Jamilson-Grasp/grasp/grasp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jamilson-Grasp/graspee/graspee.iml" filepath="$PROJECT_DIR$/Jamilson-Grasp/graspee/graspee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jamilson-Grasp/jamilsongrasp/jamilsongrasp.iml" filepath="$PROJECT_DIR$/Jamilson-Grasp/jamilsongrasp/jamilsongrasp.iml" />
+    </modules>
+  </component>
+</project>
